@@ -1,0 +1,39 @@
+1. Guido Van rossum developed python programming language.
+
+2. Python supports dynamic typing, object oriented type of programming.
+
+3. Yes, python is case sensitive when dealing with identifiers.
+
+4. .py is the correct extension of python file.
+
+5. Python is an intrepreted language.
+
+6. Few blocks of code in python:
+   the_list = [1,2,3]
+	for i in the_list:
+		print('hello')
+   def test1(b,c):
+	## function
+	a = b+c
+	return a
+
+7. # is used for single line commenting in python
+
+8. python_version() in jupyter notebook, python --version in conda
+
+9. Python supports to make anonymous functions called lambda.
+
+10. pip stands for preferred installer program
+
+11. len(), pow()- few example of builtin function
+
+12. 79 characters is maximum possible length of an identifier in python
+
+13. Its easy, it has dynamic typing, free and opensource, large community engagement, trendy in development
+
+14. memory is managed through data structures and objects
+
+15. Open a browser to the Python website and download the Windows installer. 
+    Double click on the downloaded file and install Python for all users, and ensure that Python is added to your path. Click on Install now to begin.
+
+16. yes indentation is required in python
